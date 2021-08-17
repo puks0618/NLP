@@ -1,2 +1,2 @@
 # NLP
-This is an NLP Project which changes German Language to English
+This is a NLP Project which changes German Language to English.
